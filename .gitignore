@@ -1,0 +1,24 @@
+.db
+# Python 캐시
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# 가상환경
+env/
+venv/
+ENV/
+.venv/
+.ENV/
+
+# IDE 및 린터
+.mypy_cache/
+.pytest_cache/
+.coverage
+.tox/
+htmlcov/
+
+# 환경파일
+.env
+.env.*
